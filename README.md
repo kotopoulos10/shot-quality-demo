@@ -11,7 +11,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Clone the repo: 
 ```bash
-git clone 
+git clone https://github.com/kotopoulos10/shot-quality-demo.git
+cd shot-quality-demo
 ```
 
 Install dependencies:
